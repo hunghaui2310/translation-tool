@@ -1,4 +1,6 @@
+# pip install python-pptx
 from pptx import Presentation
+# pip install requests
 import requests
 
 if __name__ == '__main__':
