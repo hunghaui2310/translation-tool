@@ -1,0 +1,43 @@
+V. Week-based WBS
+V. Weekly WBS and Cost Proposal
+Task
+W1
+W2
+W3
+W4
+Phase 1: First working system
+1. Datasets for Cyberbullying & Self-harm
+- Find relevant keywords and sources
+- Crawl data from sources with selected keywords
+- Data review & labeling
+2.  Web-based Tool
+- UI/UX design
+- Classifier manager page
+- Datasets manager page
+- Classification test page
+3. Classification Model & APIs
+- APIs for Web tool
+- Classification modeling & implementation
+Phase 2: System tuning & documentation
+1. Datasets improvement
+2. Classification quality & speed improvement
+3. Documentation
+- Duration: 01 month
+- Cost: ~ 5.000 USD
+AI  Industry Association , Chairman
+Inha Univ. , Adjunct Associate Prof. 
+Society for AI , Board Member
+Exec. Advisor for Korean Gov.
+- Big data advisory board of MSIP
+- Committee member of Open Data Council 
+ISO TC37 , Committee Member
+Association for HCI , Chairman
+STI International , Board Member
+KICT , Honorary Researcher
+LG Central Lab. , Researcher
+Order of Service Merit , President of Korea
+Best Software Award , President of Korea
+Best Paper Prize , Samsung Elec.
+Tony LEE   CEO and President of Saltlux, Inc.
+A world where everyone has the power of knowledge!!
+Saltlux will make this a dream come true.

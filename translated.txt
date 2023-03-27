@@ -1,0 +1,24 @@
+ccc
+Đề xuất dự án:
+Bắt nạt trên mạng và Phát hiện hành vi tự hại
+Công nghệ Saltlux
+Nội dung đề xuất
+Mục tiêu dự án
+Bảng phân cảnh công cụ dựa trên web
+Ngành kiến ​​​​trúc
+Thu thập dữ liệu
+WBS hàng tuần
+I. Mục tiêu dự án
+Thu thập Bộ đào tạo và Bộ kiểm tra cho Bắt nạt trên mạng và Tự làm hại bản thân
+Xây dựng một công cụ dựa trên web để quản lý các mô hình đào tạo/kiểm tra, đào tạo và kiểm tra cho Bắt nạt trên mạng và Tự làm hại bản thân
+- 02 phân loại cho Bắt nạt trên mạng và Selfharm
+- Hiệu suất:
++ Chất lượng: F1 >= 90%
++ Tốc độ: 5 yêu cầu/s
+- Bộ dữ liệu:
++ Thu thập thông tin 10.000 tài liệu (Bắt nạt trên mạng: 3.000; Tự hại: 3.000; và Trung lập)
++ Tập huấn luyện/Kiểm tra: 80%/20%
+- Công cụ web:
++ Quản lý các bộ phân loại: duy trì danh sách các bộ phân loại (Bắt nạt trên mạng, Tự làm hại bản thân)
++ Quản lý tập huấn luyện của từng phân loại: rà soát dữ liệu đã thu thập, thêm/xóa dữ liệu vào tập huấn luyện để cải thiện mô hình
++ Kiểm tra mô hình phân loại với một tài liệu đầu vào: trả về True/False và danh sách các bằng chứng.
